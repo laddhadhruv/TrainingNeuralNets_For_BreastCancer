@@ -14,11 +14,27 @@ This repository contains the implementation of a neural-network-based classifier
 
 ---
 
-## 📁 Repository Structure
+## 🧬 Dataset Information
 
-├── CancerNN4.ipynb # Main project notebook
-├── README.md # Project documentation
-├── LICENSE # Project license
-└── results/
-    ├── Accuracy_&_Loss_Rate_plot.png
-    └── sample_predictions.png
+This project uses the **Multi-Cancer Dataset**:  
+🔗 https://www.kaggle.com/datasets/obulisainaren/multi-cancer/data  
+Dataset creator: **Naren Obulisainar**
+
+The dataset is *not* included in this repo. Users must download it directly from Kaggle according to its license and terms.
+
+---
+
+# 🧠 Model Architecture
+
+Below is the architecture used in the neural network.
+
+## **📐 Layer Diagram (ASCII Block)**
+
+
+---
+
+# 📊 Results & Visualization
+
+<img width="2854" height="1673" alt="Results2" src="https://github.com/user-attachments/assets/be23c07a-9bac-4f6b-ad0a-f60127075551" />
+<img width="5370" height="2813" alt="Results1" src="https://github.com/user-attachments/assets/6a26d1bf-9ec7-421c-a073-0c6a858742c2" />
+
