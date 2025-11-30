@@ -9,7 +9,7 @@ This repository contains the implementation of a neural-network-based classifier
 - Data preprocessing & normalization
 - Neural network model for multi-cancer prediction
 - Accuracy/Loss visualization utilities
-- Easy-to-run Jupyter notebook (`CancerNN4.ipynb`)
+- Easy-to-run Jupyter notebook (`Breast_Cancer_Detector.ipynb`)
 - Section to include generated images & model results
 
 ---
@@ -21,15 +21,6 @@ This project uses the **Multi-Cancer Dataset**:
 Dataset creator: **Naren Obulisainar**
 
 The dataset is *not* included in this repo. Users must download it directly from Kaggle according to its license and terms.
-
----
-
-# 🧠 Model Architecture
-
-Below is the architecture used in the neural network.
-
-## **📐 Layer Diagram (ASCII Block)**
-
 
 ---
 
